@@ -4,10 +4,10 @@ Backup of WeakAuras and Profiles for World of Warcraft UI
 # [WeakAuras](https://github.com/WeakAuras/WeakAuras2)
 Download on [Cursforge](https://www.curseforge.com/wow/addons/weakauras-2)
 
- * Ancors: [https://wago.io/A3q8_Gv__](https://wago.io/A3q8_Gv__)  ([GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/Ancors.txt))
- * General: [https://wago.io/ut7TKCTxq](https://wago.io/ut7TKCTxq) ([GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/General.txt))
- * SayWhatYouKick: [https://wago.io/xJTFpCAl-](https://wago.io/xJTFpCAl-) ([GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/SayWhatYouKick.txt))
- * Monk: [https://wago.io/XEsM44eNc](https://wago.io/XEsM44eNc) ([GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/Monk.txt))
+ * Ancors: [Wago](https://wago.io/A3q8_Gv__) | [GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/Ancors.txt)
+ * General: [Wago](https://wago.io/ut7TKCTxq) | [GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/General.txt)
+ * SayWhatYouKick: [Wago](https://wago.io/xJTFpCAl-) | [GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/SayWhatYouKick.txt)
+ * Monk: [Wago](https://wago.io/XEsM44eNc) | [GitHub](https://raw.githubusercontent.com/Deltachaos/deltaui/refs/heads/main/WeakAuras/Monk.txt)
 
 # [Threat Plates](https://github.com/Backupiseasy/ThreatPlates)
 Download on [Curseforge](https://www.curseforge.com/wow)
