@@ -8,7 +8,8 @@ Edit Mode: WoW/Editmode.txt
 # [Platynator](https://github.com/TheMouseNest/Platynator)
 Download on [Curseforge](https://www.curseforge.com/wow/addons/platynator)
 
-Style: Platynator/Style.txt
+Style_Default: Platynator/Style_Default.txt
+Style_Simple: Platynator/Style_Simple.txt
 Profile: Platynator/Profile.txt
 
 # ArcUI
